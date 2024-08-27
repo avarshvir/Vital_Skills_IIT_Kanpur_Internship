@@ -1,0 +1,35 @@
+# What is Machine Learning?
+-> Machine Learning is defined as field of study that gives computer the ability to learn
+without being explicitly programmed.
+-> Machine Learning is a subset of AI,that develops algorithms by learning the hidden patterns
+of datsets used to make predictions on new similar type data, without being explicitly programmed
+for each task.
+-> The ML is defined as A computer program is said to learn from experience E with respect to some
+class of tasks T and perform at tasks in T, as measured by P, improves with E.
+
+# Types of Machine Learning.
+->  1. Supervised Learning
+    2. Unsupervised Learning
+    3. Reinforcement Learning
+
+    ## Supervised Learning -> with labelled data(both input and output)
+      Types of Supervised Learning -> Classification and Regression.
+      Regression for continuous variable.
+      Classification for categorical variable. (discrete class)
+
+    ## Unsupervised Learning -> no labelled data(used for hidden pattern and trends)
+      Types of Unsupervised Learning -> Clustering and Association.
+      Clustering mean grouping of similar datapoints.
+      Association identifies relationships or patterns between variables in a dataset.
+
+    ## Reinforcement Learning -> feedback system, get reward for right answer and get penalty for wrong anwser.
+
+# Basic Terminologies:
+-> Data Analysis
+-> Data Science
+-> Data Visualization
+-> Deep Learning
+-> Neural Networks (basics)
+-> AI
+-> Embedded Systems
+-> Robotics
