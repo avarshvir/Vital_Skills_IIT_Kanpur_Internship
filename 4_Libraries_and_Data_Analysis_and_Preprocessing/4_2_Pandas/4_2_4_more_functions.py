@@ -47,3 +47,7 @@ merged_df = pd.merge(student_details, student_scores, on='StudentID')
 print("Merged DataFrame:")
 print(merged_df)
 
+# joining
+print("------------------------------")
+#student = student_details.join(student_scores)
+#print(student)
