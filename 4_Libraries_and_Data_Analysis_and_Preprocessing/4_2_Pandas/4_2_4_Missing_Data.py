@@ -15,5 +15,6 @@ print(df)
 print("-----------------------------")
 #fill values
 print(df.fillna('Fill'))
+print(df['A'].fillna(value=df['A'].mean()))
 print(df.fillna(value = df.mean(),inplace=True))
 print(df)
