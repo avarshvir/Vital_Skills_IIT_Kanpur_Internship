@@ -1,0 +1,1 @@
+Elastic Net regression is a powerful machine learning technique that combines the strengths of both Lasso (L1 regularization) and Ridge (L2 regularization) regression. It’s particularly useful when you have many correlated predictors.
