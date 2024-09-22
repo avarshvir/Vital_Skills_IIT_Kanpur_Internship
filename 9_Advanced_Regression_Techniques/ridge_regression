@@ -1,0 +1,1 @@
+Ridge regression is a technique used in machine learning for fitting a line (or hyperplane) to data, but with a twist: it helps prevent the model from becoming too complicated (overfitting) by adding a penalty to the size of the coefficients (the weights assigned to each feature).
