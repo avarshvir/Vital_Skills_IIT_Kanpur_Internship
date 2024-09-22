@@ -1,0 +1,1 @@
+Lasso stands for Least Absolute Shrinkage and Selection Operator. It modifies the regular linear regression by adding a penalty based on the absolute values of the coefficients.
